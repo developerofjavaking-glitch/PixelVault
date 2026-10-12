@@ -1,0 +1,45 @@
+[
+  {
+    "id": "clkiyf2z",
+    "filename": "clkiyf2z.jpg",
+    "originalName": "20261010_160445(0).jpg",
+    "title": "20261010_160445(0)",
+    "description": "",
+    "mimeType": "image/jpeg",
+    "size": 1698624,
+    "width": 4032,
+    "height": 2268,
+    "createdAt": 1791824122155,
+    "expiresAt": null,
+    "deleteToken": "c6d1bfcfeb444b5e8e09af98ea68c25e",
+    "views": 0
+  },
+  {
+    "id": "3da0jhr0",
+    "filename": "3da0jhr0.jpg",
+    "originalName": "20261010_160445(0).jpg",
+    "title": "20261010_160445(0)",
+    "description": "",
+    "mimeType": "image/jpeg",
+    "size": 2585761,
+    "width": 4032,
+    "height": 2268,
+    "createdAt": 1791824325245,
+    "expiresAt": null,
+    "deleteToken": "b83ef0f89f8f68b9913da6c4af121dc8",
+    "views": 0
+  },
+  {
+    "id": "45k236em",
+    "filename": "45k236em.png",
+    "originalName": "auto-detect-test.png",
+    "title": "Auto Detect Test",
+    "description": "",
+    "mimeType": "image/png",
+    "size": 70,
+    "createdAt": 1791824468167,
+    "expiresAt": null,
+    "deleteToken": "7306dc2515502530979609f99b971336",
+    "views": 0
+  }
+]

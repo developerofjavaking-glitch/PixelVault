@@ -1,0 +1,6 @@
+{
+  "name": "PixelVault - Anonymous Image Hosting",
+  "description": "Secure cloud storage and instant anonymous image uploads with hotlinks, Markdown, HTML, and BBCode embeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
